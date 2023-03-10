@@ -20,3 +20,4 @@ resource "aws_iam_policy" "inline" {
 }
 EOF
 }
+
